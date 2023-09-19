@@ -1,0 +1,60 @@
+header{
+    background-color: #a04d1c;
+    color: white;   
+}
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
+.cabecalho{
+    background-color: #b8600e;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 30px;
+}
+
+.escola-imagem{
+    width: 20%;
+}
+   
+.escola{
+    background-color: #d17723;
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    font-size: 20px;
+}
+   
+.escola-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+    font-size: 35px;
+}
+
+.rodape{
+    background-color: #d19767;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 16px 0;
+    font-size: 24px;
+    color: rgb(207, 106, 47);
+}
